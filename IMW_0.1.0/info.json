@@ -1,0 +1,10 @@
+{
+  "name": "IMW",
+  "version": "0.1.0",
+  "title": "Intermediate Weaponry",
+  "author": "Phisher",
+  "homepage": "TODO",
+  "dependencies": ["base >= 0.17.0"],
+  "factorio_version": "0.17",
+  "description": "Adds VLS and Cannons"
+}
